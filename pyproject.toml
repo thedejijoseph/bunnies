@@ -1,0 +1,7 @@
+[project]
+name = "bunnies"
+version = "0.1.0"
+description = "data etl scripts"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
