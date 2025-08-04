@@ -5,5 +5,6 @@ description = "data etl scripts"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "pandas>=2.3.1",
     "prefect>=3.4.11",
 ]
